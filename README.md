@@ -5,7 +5,7 @@
 - 📫 lakshanans1121@gmail.com
 - 📲 +94750801121
 - 📫 https://www.lakshanans.github.io/MyPortfolio/
-- 📫 linkedin.com/in/sivalingam-lakshanan-75a888283
+- 📫 www.linkedin.com/in/sivalingam-lakshanan-75a888283
 - 📫 https://www.pinterest.com/lakshanans1121/
 <!---
 LakshananS/LakshananS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
